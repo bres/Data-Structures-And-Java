@@ -1,4 +1,4 @@
-package Stacks.WorkingWithStacks.implementStack;
+package Stacks.BuildAStackFromScratch;
 
 import java.util.Arrays;
 import java.util.EmptyStackException;

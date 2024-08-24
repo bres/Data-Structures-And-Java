@@ -1,4 +1,4 @@
-package Stacks.WorkingWithStacks.implementStack;
+package Stacks.BuildAStackFromScratch;
 
 public class Main {
 
