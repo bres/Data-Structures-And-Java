@@ -34,5 +34,16 @@ public class Main {
         StringReverser reverser = new StringReverser();
         var result = reverser.reverse("abcdef");
         System.out.println(result);
+
+        //balancedExpressions
+        //edge cases
+        // (
+        // ())
+        // ) (
+        // ( ]
+        String str="(a+b)";
+        Expression expr = new Expression();
+        var results =expr.isBalanced(str);
+        System.out.println(results);
         }
 }
